@@ -10,3 +10,4 @@ coverage
 pkg
 rdoc
 tmp
+**/.DS_Store
